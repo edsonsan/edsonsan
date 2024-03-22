@@ -3,7 +3,7 @@
 
 ### Seja Bem-Vindo ao meu Github
 
-    Sou Analista em Qualidade de Software, Eletrônico, Programador.
+    Sou Analista em Qualidade de Software, Eletrônico e Programador.
 
  ![EdsonSan GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonsan&show_icons=true&theme=radical)  
  
