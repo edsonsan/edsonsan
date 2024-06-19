@@ -11,7 +11,8 @@
  
 
  ## Tecnologias do meu dia!  
-     Atualmente atuando em Python, Java, Robot RestAssured, Selenium, JMeter e Swagger.  
+     Atuando com automações em Python, Java, Robot RestAssured, Selenium, JMeter e Swagger.
+     Realizo testes manuais, funcionais, exploratórios e integração.
 
 Sinta-se a vontade para contato  
 
