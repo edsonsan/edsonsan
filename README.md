@@ -11,8 +11,12 @@
  
 
  ## Tecnologias do meu dia!  
-     Atuando com automações em Python, Java, Robot RestAssured, Selenium, JMeter e Swagger.
-     Realizo testes manuais, funcionais, exploratórios e integração.
+- Automação – Robot Framework, Playwright, Selenium, Browser
+- Linguagens – Python, Java
+- API / Ferramentas – Postman, RestAssured
+- DevOps / QA Ops – GitHub Actions, Docker, Git
+- Testes – Funcional, Regressão, Exploratório, Smoke
+- Realizo testes manuais, funcionais, exploratórios e integração.
 
 Sinta-se a vontade para contato  
 
