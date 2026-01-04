@@ -1,9 +1,9 @@
 
 ### Meu nome é Edson Santos
 
-### Seja Bem-Vindo ao meu Github
+### Seja bem-vindo ao meu Github
 
-    Sou Analista em Qualidade de Software, Eletrônico e Programador.
+   Sou analista de Qualidade de Software, analista eletrônico e programador.
 
  ![EdsonSan GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonsan&show_icons=true&theme=radical)  
  
@@ -18,7 +18,7 @@
 - Testes – Funcional, Regressão, Exploratório, Smoke
 - Realizo testes manuais, funcionais, exploratórios e integração.
 
-Sinta-se a vontade para contato  
+Sinta-se à vontade para contato.  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonsanto/)  
 [![Meu Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://edsonsan.github.io/curriculo/)
